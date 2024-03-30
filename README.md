@@ -9,6 +9,7 @@ This project is a web application designed to facilitate intern applications and
 - Internship programs details and application
 - Contact and support integration
 - Admin Panel for management of interns, instructors, and internship programs
+- RESTful API for secure data exchange
 
 ## Installation
 
@@ -46,7 +47,7 @@ Make sure to update the database connection settings in your project as per your
 
 You might need to adjust configuration files within the project for it to connect to the database properly. Here's an example for a typical PHP application:
 
-1. Find the `config.php` file in the project directory.
+1. Find the `database.php` file in the API file.
 
 2. Update the database configuration settings with your local information, like this:
     ```php
