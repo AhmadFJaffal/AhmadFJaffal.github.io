@@ -1,7 +1,7 @@
 # Intern Management System
 
 ## About
-This project is a web application designed to facilitate intern applications and program management for students and Internship Development Staff (IDS). It aims to streamline the application process, manage program details, and provide a user-friendly interface for both students and staff members.
+This project is a web application designed to facilitate intern applications and program management for students and IDS staff. It aims to streamline the application process, manage program details, and provide a user-friendly interface for both students and staff members.
 
 ## Features
 - User authentication and authorization
